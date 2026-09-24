@@ -21,5 +21,5 @@ console.log("Tried to hack user")
 
 ```
 ```python
-print: ("Hello world")
+print("Hello world")
 ```
