@@ -18,3 +18,10 @@ I denne prosjekted så har jeg jobbet med å lære hvordan man kan bruke md doku
     · Hva var mest utfordrende?
     Å først lære hva de forskjellige tingene på github er/gjør.
 
+## Bli kjent med JavaScript
+    · Hva har du prøvd ut?
+    Det jeg har prøvd ut er å få knapper till å virke på nettsiden men også få ting til å skje i consolen.
+    · Hva har du lært?
+    Det jeg har lært er hvordan man kan lage knapper som gjør en endring i console eller på nettsiden.
+    · Eventuelle utfordringer du møtte
+    Utfordringer jeg møtte på var på starten å skrive koden riktig sånn at programmet skjønte hva du prøvde på.
